@@ -4,6 +4,7 @@
   "description": "Repo para ver la multiples opciones para tener una pagina o api con NODEJS",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -11,5 +12,8 @@
     "vscode"
   ],
   "author": "XixoW",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "countries-list": "^2.5.4"
+  }
 }
