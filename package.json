@@ -1,0 +1,15 @@
+{
+  "name": "pagina_node",
+  "version": "1.0.0",
+  "description": "Repo para ver la multiples opciones para tener una pagina o api con NODEJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "vscode"
+  ],
+  "author": "XixoW",
+  "license": "MIT"
+}
