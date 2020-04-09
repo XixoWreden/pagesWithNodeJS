@@ -4,11 +4,16 @@ const express = require('express');
 //aplicacion express
 const app = express();
 
-app.get('/', (req,resp) => {
-    resp.status(200).send("HELLO")
-})
+app.use(express.static(__dirname+'/public/'))
+//Folder que estará visualizandopara los componentes staticos de la página
+console.log(__dirname+'/public')
 
 
-app.listen(8090, () =>{
-    console.log("Running in port ::: 8090");
+
+const portConnect = 8080
+
+const server = app.listen(portConnect, () =>{
+    console.log(`Running in port ::: ${portConnect}`);
 });
+
+// server.close();
