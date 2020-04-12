@@ -1,6 +1,6 @@
 # BRANCH PARA MEJORES PRACTICAS NODEJS, EXPRESS, EJS.
+
 ## Se tomaron las referencias de videos y de páginas en Github y se creará un modelo génerico para futuras referencias.
------------------------------------------------------------------------------------------------------------------------
 
 ## Se usaran los siguentes referncias
 
@@ -14,3 +14,9 @@
 - Simplificado y explicado, aun que falta algo que explique la estructura middleware, models y helpers
 
 3. **Video de una página sencilla, con NodeJS, Express y EJS, con una buena estructura**. [Node.js 8 | App de Tareas con EJS y Express.js](https://www.youtube.com/watch?v=7IBcDIb8XmQ)
+
+4. **Se toma referncia de Express 4.x API.** [LINK](https://expressjs.com/en/4x/api.html#app.all)
+
+5. **Se uso un módulo aparte de nodemon, el reload que hace la función de recargar la página completa en su navegador** [LINK](https://www.npmjs.com/package/reload)
+
+6. **Otra página para ver referncias acerca de como debería ser la estructura en proyectos** [LINK](https://101node.io/blog/how-to-write-production-ready-node-express-app/)
