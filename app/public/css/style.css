@@ -1,0 +1,57 @@
+/* @import url(http://fonts.googleapis.com/css?family=Roboto:100, 300); */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	color: #fff;
+	background-color: rgba(62, 75, 60, 0.33);
+}
+
+header {
+	color: rgb(255, 255, 255);
+	background-color: #7ecf15;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+section.contenedor-main {
+	margin-bottom: 20px;
+}
+
+main {
+	color: #c0da4d;
+	background-color: #0e092c;
+	padding: 20px 0;
+}
+
+section h2 {
+	color: #fff;
+}
+
+aside {
+	padding: 60px 0;
+	background-color: #c0da4d; 
+	color:#0e092c;
+}
+
+aside h3{
+	color: rgb(61, 0, 0);
+}
+
+.widget {
+	color: #b3b0c2;
+	margin-bottom: 20px;
+}
+
+.widget > div{
+	background-color: rgb(114, 235, 235);
+	color: #0e092c;
+	padding: 20px;
+}
+
+footer {
+	padding: 20px 0;
+	background-color:rgb(7, 10, 14);
+	color: #fff;
+}
